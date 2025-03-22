@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YMEfxD52QXCRuzfeZKqiKZTWBaRvxplltLj/Gk0GRfM=",
+  "Source": "Commbiz.WeatherApi",
+  "BasePath": "_content/Commbiz.WeatherApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

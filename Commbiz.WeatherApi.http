@@ -1,0 +1,6 @@
+@Commbiz.WeatherApi_HostAddress = http://localhost:5269
+
+GET {{Commbiz.WeatherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
